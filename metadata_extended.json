@@ -1,0 +1,30 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://github.com/stake3741/pool/raw/54ae31aa31ef3b2e059f7b04fe2ca8e0ed17245d/icon64.png",
+        "url_png_logo": "https://github.com/stake3741/pool/raw/main/path947-6.png",
+        "location": "Graz, Austria",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "picoberry",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "country": "Austria",
+        },
+        "about": {
+            "me": "Single Pool Operator with 6 Years Experience in Maintaining Linux-based Servers",
+            "server": "Raspberry Pi Node with 2 seperately located Relays and 100% Renewable Energy",
+        },
+    },
+    "my-pool-ids": {
+        "0": "pool1m2vhhprqwktsxldpgqdw0n88m7gw4fgcux2ttx9jsczxy0tvux4"
+    },
+    "when-satured-then-recommend": {
+        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
+        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+    },
+}
